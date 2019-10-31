@@ -21,5 +21,6 @@ end
 
 def shift_with_args(Array)
   2.times do
-shift_with_args.shift
+Array.shift
+end
 end
