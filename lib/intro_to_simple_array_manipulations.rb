@@ -20,4 +20,6 @@ def using_shift(Array)
 end
 
 def shift_with_args(Array)
-shift_with_args.shift()
+  2.times do
+shift_with_args.shift
+end
